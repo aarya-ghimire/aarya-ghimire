@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at (aaryaghimire.com.np)
-
 - 📫 How to reach me **aaryaghimire36@gmail.com**
 
 - ⚡ Fun fact **I’m not a comedian, but I do commit frequently 😅**
